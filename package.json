@@ -1,0 +1,23 @@
+{
+  "name": "gcwv",
+  "version": "0.0.1",
+  "description": "A simple package to get core web vitals of any website in the stable(st) way possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilanjansiromani/gcwv.git"
+  },
+  "author": "Nilanjan Siromani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilanjansiromani/gcwv/issues"
+  },
+  "homepage": "https://github.com/nilanjansiromani/gcwv#readme",
+  "dependencies": {
+    "puppeteer": "^19.11.1",
+    "stats-lite": "^2.2.0"
+  }
+}
